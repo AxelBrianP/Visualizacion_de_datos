@@ -6,4 +6,4 @@
 ![](https://github.com/AxelBrianP/Visualizacion_de_datos/blob/main/2.png)
 ## Una ventaja de estos tableros es poder aplicar un filtro, como periodo de tiempo, y actualizar los datos al instante
 ## Ahora veremos otro ejemplo aplicando un filtro por vendedor
-![](https://github.com/AxelBrianP/Visualizacion_de_datos/commit/6e61698d9f21824a42a58276b020f346183e4a65)
+![](https://github.com/AxelBrianP/Visualizacion_de_datos/blob/main/3.png)
